@@ -25,18 +25,5 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
-// $(document).ready(function () {
-//     var owl = $('.owl-carousel');
-//     owl.owlCarousel({
-//         items: 9,
-//         loop: true,
-//         margin: 35,
-//         // autoplay: true,
-//         // slideTransition: 'linear',
-//         // autoplayTimeout: 3000,
-//         // autoplaySpeed: 3000,
-//         // autoplayHoverPause: false
 
-//     });
 
-// });
